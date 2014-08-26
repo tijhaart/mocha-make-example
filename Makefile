@@ -1,4 +1,4 @@
-.PHONY: test testw
+.PHONY: test testw test-a test-b test-setup
 
 REPORTER ?= spec
 FILE ?= src/**/test/*.test.coffee
