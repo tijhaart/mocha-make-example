@@ -1,0 +1,16 @@
+{
+  "name": "spike-test-make",
+  "version": "0.0.1",
+  "description": "Simple example running mocha test via make",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "R. Tijhaar",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "dependencies": {
+    "coffee-script": "^1.8.0"
+  }
+}
